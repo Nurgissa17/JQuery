@@ -1,5 +1,4 @@
 # Assignment 6 - jQuery
-
 Name: Nurgissa Pernebay  
 Group: SE-2539
 
